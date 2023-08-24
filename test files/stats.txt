@@ -1,0 +1,240 @@
+********************************************************************************
+* Frequency 1
+********************************************************************************
+known                         why                           thats                         
+gardens                       roses                         have                          
+prince                        shortly                       wedding                       
+dearest                       self                          real                          
+transform                     accept                        willing                       
+maiden                        witch                         evil                          
+secret                        frightful                     tell                          
+couldnt                       silence                       suffering                     
+longing                       ive                           
+
+********************************************************************************
+* length of 14
+********************************************************************************
+terrorstricken                
+
+********************************************************************************
+* length of 12
+********************************************************************************
+conversation                  embroidering                  surprisingly                  
+
+********************************************************************************
+* length of 11
+********************************************************************************
+accompanied                   immediately                   interrupted                   
+magnificent                   remembering                   strangeness                   
+
+********************************************************************************
+* length of 10
+********************************************************************************
+completely                    describing                    downstairs                    
+explaining                    frightened                    remembered                    
+terrifying                    understand                    unexpected                    
+ungrateful                    
+
+********************************************************************************
+* length of 9
+********************************************************************************
+adventure                     attention                     beginning                     
+bloodshot                     breakfast                     condition                     
+curiosity                     daughters                     favourite                     
+frightful                     gradually                     lnstantly                     
+magically                     nightmare                     presented                     
+prettiest                     shuddered                     specially                     
+suffering                     transform                     trembling                     
+
+********************************************************************************
+* length of 8
+********************************************************************************
+actually                      anything                      business                      
+corridor                      crackled                      crouched                      
+daughter                      discover                      distance                      
+dreadful                      embraced                      enjoying                      
+feelings                      finished                      generous                      
+gleaming                      greeting                      handsome                      
+horrible                      inviting                      lingered                      
+menacing                      merchant                      monsters                      
+necklace                      offended                      overcome                      
+pleading                      pleasant                      plucking                      
+prisoner                      promised                      reaching                      
+recovery                      returned                      shouting                      
+silently                      solemnly                      splendid                      
+starving                      steaming                      suddenly                      
+surprise                      sweetest                      terrible                      
+tethered                      twisting                      upstairs                      
+ventured                      whipping                      youngest                      
+
+********************************************************************************
+* length of 7
+********************************************************************************
+already                       angrily                       attract                       
+bedside                       brocade                       calling                       
+certain                       clamped                       clothes                       
+couldnt                       courage                       dearest                       
+delight                       distant                       dropped                       
+evening                       fathers                       flashed                       
+flowers                       forgive                       friends                       
+further                       gardens                       gesture                       
+gravely                       growled                       headway                       
+herself                       himself                       however                       
+howling                       instead                       journey                       
+knowing                       longing                       miracle                       
+monster                       morning                       nothing                       
+noticed                       onwards                       present                       
+promise                       reached                       reality                       
+refusal                       shakily                       shaking                       
+shelter                       shining                       shortly                       
+shouted                       silence                       stalked                       
+started                       tidying                       tightly                       
+towards                       unhappy                       unknown                       
+wearing                       wedding                       weeping                       
+willing                       worried                       
+
+********************************************************************************
+* length of 6
+********************************************************************************
+abrupt                        accept                        afraid                        
+always                        amazed                        arrive                        
+asleep                        bathed                        beasts                        
+beauty                        became                        before                        
+beside                        bright                        broken                        
+castle                        caught                        coffee                        
+dinner                        dreamt                        fading                        
+failed                        fallen                        family                        
+father                        finest                        garden                        
+gazing                        glared                        hardly                        
+hearty                        horror                        hugged                        
+inside                        kindly                        little                        
+lonely                        looked                        loving                        
+maiden                        market                        middle                        
+mirror                        moment                        nobody                        
+notice                        passed                        peeped                        
+picked                        placed                        prince                        
+rather                        really                        resist                        
+return                        rushed                        saving                        
+second                        secret                        served                        
+slight                        sprang                        stairs                        
+stared                        stayed                        sudden                        
+thanks                        though                        turned                        
+wanted                        wonder                        
+
+********************************************************************************
+* length of 5
+********************************************************************************
+after                         again                         agony                         
+asked                         awful                         beast                         
+began                         being                         bring                         
+close                         could                         death                         
+doubt                         dress                         drove                         
+dying                         faced                         first                         
+found                         front                         fruit                         
+greet                         halls                         happy                         
+heart                         horse                         hours                         
+hurry                         knees                         known                         
+large                         later                         leave                         
+light                         magic                         marry                         
+might                         mouth                         never                         
+night                         owner                         pearl                         
+place                         quite                         reply                         
+rooms                         roses                         seven                         
+shall                         shook                         short                         
+sight                         slept                         snout                         
+solem                         spare                         spite                         
+spoke                         steed                         still                         
+storm                         swear                         table                         
+taken                         tears                         thank                         
+thats                         theft                         there                         
+these                         third                         three                         
+threw                         usual                         visit                         
+voice                         wasnt                         weary                         
+whats                         where                         whose                         
+witch                         words                         worry                         
+would                         wrong                         youll                         
+young                         youve                         
+
+********************************************************************************
+* length of 4
+********************************************************************************
+able                          away                          back                          
+been                          bent                          blew                          
+bush                          came                          cant                          
+cold                          come                          days                          
+dead                          dear                          deep                          
+done                          dont                          doom                          
+door                          down                          drew                          
+each                          evil                          eyes                          
+face                          fast                          fear                          
+feel                          feet                          fell                          
+find                          fire                          from                          
+gale                          gave                          gift                          
+girl                          gone                          good                          
+hall                          hand                          have                          
+head                          here                          home                          
+hope                          host                          hurt                          
+into                          keep                          kept                          
+kill                          kind                          know                          
+last                          late                          left                          
+life                          like                          lost                          
+love                          made                          main                          
+make                          meal                          mind                          
+much                          name                          near                          
+next                          obey                          once                          
+only                          open                          owed                          
+past                          pick                          rage                          
+real                          rest                          road                          
+room                          rose                          said                          
+save                          self                          shut                          
+soft                          some                          soon                          
+stay                          such                          take                          
+tell                          that                          them                          
+then                          this                          till                          
+time                          told                          took                          
+tree                          ugly                          upon                          
+very                          want                          well                          
+went                          were                          what                          
+when                          wife                          will                          
+wish                          with                          woke                          
+wont                          wood                          your                          
+
+********************************************************************************
+* length of 3
+********************************************************************************
+all                           and                           are                           
+ate                           bed                           but                           
+can                           day                           did                           
+die                           end                           eye                           
+far                           few                           for                           
+get                           had                           her                           
+him                           his                           how                           
+ill                           inn                           its                           
+ive                           lay                           led                           
+let                           man                           mug                           
+not                           now                           off                           
+one                           out                           own                           
+paw                           put                           ran                           
+sat                           saw                           say                           
+see                           set                           she                           
+sit                           the                           too                           
+two                           was                           who                           
+why                           yes                           you                           
+
+********************************************************************************
+* length of 2
+********************************************************************************
+an                            as                            at                            
+be                            by                            do                            
+go                            he                            id                            
+if                            im                            in                            
+is                            it                            me                            
+my                            no                            of                            
+oh                            on                            so                            
+to                            up                            
+
+********************************************************************************
+* length of 1
+********************************************************************************
+a                             i                             
+
